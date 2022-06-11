@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/.vs/MummyGame
+/Debug
+/Release
+/x64
